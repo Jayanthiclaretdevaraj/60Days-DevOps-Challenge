@@ -1,21 +1,34 @@
-# 🚀 Day 1 – HTML Portfolio Deployment with GitHub Pages
+# 📅 Day 1 – Linux Basics
 
-## ✅ What I Did
+## ✅ Topics Covered
 
-- Created a simple HTML portfolio page
-- Committed the code to GitHub
-- Deployed the page using GitHub Pages
+- Basic Linux commands
+- Linux file system structure
+- User & group management
+- File permissions & ownership
 
-## 🌐 Live Demo
+## 💻 Practice Snippets
 
-🔗 [View Live Website](https://jayanthiclaretdevaraj.github.io/60Days-DevOps-Challenge)
+```bash
+# Navigation
+pwd
+ls
+mkdir DevOps
+cd DevOps
 
-## 💡 Learnings
+# Files
+touch file1.txt
+echo "Hello Clara" > file1.txt
+cat file1.txt
 
-- Basic Git workflow (init, add, commit, push)
-- Using GitHub as a remote repo
-- Publishing HTML content with GitHub Pages (free hosting!)
+# Permissions
+chmod 755 file1.txt
+chown $USER:$USER file1.txt
 
----
+# Users
+sudo adduser testuser
+sudo passwd testuser
+id
+whoami
+![Day 1 Terminal Screenshot](./linux_day1.png)
 
-📅 Ready for Day 2 – CI/CD with GitHub Actions!
