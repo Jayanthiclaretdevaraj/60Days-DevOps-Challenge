@@ -1,0 +1,2 @@
+line from main branch
+feature: new ending   # ← if you prefer this version
