@@ -1,4 +1,3 @@
-c:\Users\SUGANTHI CLARET\Pictures\Screenshots\auto_rebase_conflict_resolved.png
 # 🚀 Day 4 – Git Advanced: Rebase, Cherry-pick & Conflict Resolution
 
 ## ✅ What I Did
